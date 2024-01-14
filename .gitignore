@@ -36,3 +36,5 @@ application.properties
 
 # Google credentials file 
 gmail-credential.json
+.mvn/wrapper
+tokens
