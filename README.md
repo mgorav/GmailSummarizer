@@ -71,4 +71,18 @@ Run unit and integration tests
 
 ```
 ./mvnw test
-```# GmailSummarizer
+```
+
+## Work In Progress 🚧
+
+### Email Summarization
+
+Planned integration with conversation AI models like OpenAI to generate email summaries:
+
+- User will be able to get key highlights from emails
+- Will provide short summaries from long email threads
+- Natural language instructions to produce the summary
+    - "Summarize the key points from this email thread"
+    - "Provide 5 bullet point summary with important details"
+
+This will enhance the email search and discovery capabilities through generated summaries.
